@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "me.bizstats/mcp",
+  "title": "BizStats.me",
+  "description": "Montenegro company filings, CRPS registry records, public tenders, Treasury payments and risk lists.",
+  "websiteUrl": "https://bizstats.me/en/api/",
+  "version": "1.0.1",
+  "repository": {
+    "url": "https://github.com/stevyhacker/bizstats-mcp",
+    "source": "github",
+    "id": "1467290082"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.bizstats.me/mcp"
+    }
+  ]
+}
