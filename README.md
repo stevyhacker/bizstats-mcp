@@ -8,7 +8,7 @@ Public, read-only remote [Model Context Protocol](https://modelcontextprotocol.i
 - **Transport:** Stateless Streamable HTTP (`POST` with JSON responses)
 - **Authentication:** None (no account or API key required)
 - **Official Registry ID:** `me.bizstats/mcp`
-- **REST API & OpenAPI:** `https://bizstats.me/en/api/` · `https://api.bizstats.me/openapi.json`
+- **REST API & OpenAPI:** `https://bizstats.me/en/api/` · `https://api.bizstats.me/v1/openapi.json`
 - **LLM Reference:** `https://bizstats.me/llms.txt` · `https://bizstats.me/llms-full.txt`
 
 ## Connect
